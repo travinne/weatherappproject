@@ -2,9 +2,9 @@ import React from 'react'
 
 function Header() {
   return (
-    <div>
+    <div className='header'>
         <h1> weather app</h1>
-        <h4> see the current weather conditions from all over the world</h4>
+        <h4> see the current weather acroos the world</h4>
     </div>
   )
 }
